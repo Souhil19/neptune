@@ -1,6 +1,6 @@
 package com.somari.ecommerce.notification;
 
-import com.somari.ecommerce.payment.Payment;
+
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.core.KafkaTemplate;
